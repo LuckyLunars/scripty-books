@@ -1,6 +1,6 @@
 # 剧本单词 · 社区经典书包
 
-收录 30 本英汉对照经典。新增书目和内容修订都会更新同一个书包，下载地址保持固定。
+收录 45 本已完成翻译和验收的双语读物。新增书目和内容修订都会更新同一个书包，下载地址保持固定。
 
 [![一键下载社区书包](https://img.shields.io/badge/一键下载-Scripty--Classics.txtpack-31593e)](https://github.com/LuckyLunars/scripty-books/releases/latest/download/Scripty-Classics.txtpack)
 
@@ -8,7 +8,7 @@
 
 ## 导入方法
 
-1. 下载 `Scripty-Classics.txtpack`。
+1. 下载 `Scripty-Classics.txtpack`。请使用支持展开后超过 128 MiB 书包的 Scripty 版本。
 2. 打开剧本单词，在「阅读 → 导入本地书」选择书包并输入密码。
 3. 新版 App 遇到重复书籍时会询问「覆盖」或「跳过」。想更新已有书目时选「覆盖」，只想补齐新书时选「跳过」。导入完成后在本地书架阅读。导入功能受 App 内权益设置控制。
 
@@ -51,3 +51,21 @@
 - [金银岛](https://www.gutenberg.org/ebooks/120)
 - [绿野仙踪](https://www.gutenberg.org/ebooks/55)
 - [呼啸山庄](https://www.gutenberg.org/ebooks/768)
+
+## 本次新增书目
+
+- [看得见风景的房间](https://www.gutenberg.org/ebooks/2641)
+- 动物庄园
+- 道德经
+- 小王子
+- [月亮与六便士](https://www.gutenberg.org/ebooks/222)
+- 一九八四
+- [人性的枷锁](https://www.gutenberg.org/ebooks/351)
+- 人鼠之间
+- 老人与海
+- 彼得·潘
+- 红与黑
+- 60篇主题阅读 · 考研六级词汇
+- 四级阅读真题 2010–2026
+- 六级阅读真题 2010–2026
+- 考研英语阅读真题 2010–2026
