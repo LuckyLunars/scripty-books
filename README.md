@@ -2,7 +2,7 @@
 
 收录 30 本英汉对照经典。新增书目和内容修订都会更新同一个书包，下载地址保持固定。
 
-[![一键下载社区书包](https://img.shields.io/badge/一键下载-Scripty--Classics.txtpack-31593e)](https://github.com/LuckyLunars/scripty-books/releases/download/books/Scripty-Classics.txtpack)
+[![一键下载社区书包](https://img.shields.io/badge/一键下载-Scripty--Classics.txtpack-31593e)](https://github.com/LuckyLunars/scripty-books/releases/latest/download/Scripty-Classics.txtpack)
 
 **公开密码为 `12345678`。**
 
@@ -16,7 +16,7 @@
 
 ## 更新书包
 
-将全部要发布的 TXT 原稿重新打包为 `Scripty-Classics.txtpack`，维持公开密码和已有书目的 `id`。在 [books 发布页](https://github.com/LuckyLunars/scripty-books/releases/tag/books)替换同名附件，然后更新校验值和书目。读者一直使用上面的下载地址。
+将全部要发布的 TXT 原稿重新打包为 `Scripty-Classics.txtpack`，维持公开密码和已有书目的 `id`。在 [书包发布页](https://github.com/LuckyLunars/scripty-books/releases/latest)替换同名附件，然后更新校验值和书目。读者一直使用上面的下载地址。
 
 ## 收录书目与原文参考
 
