@@ -1,39 +1,26 @@
 # 剧本单词 · 社区经典书包
 
-这里分享 30 本英汉对照经典，分为 11 个 `.txtpack` 书包。每个书包都能独立导入。
+收录 30 本英汉对照经典。新增书目和内容修订都会更新同一个书包，下载地址保持固定。
 
-[![一键下载全部书包](https://img.shields.io/badge/一键下载-全部书包%20ZIP-31593e)](https://github.com/LuckyLunars/scripty-books/archive/refs/heads/main.zip)
+[![一键下载社区书包](https://img.shields.io/badge/一键下载-Scripty--Classics.txtpack-31593e)](https://github.com/LuckyLunars/scripty-books/releases/download/books/Scripty-Classics.txtpack)
 
-**所有书包的公开密码是 `12345678`。**
+**公开密码为 `12345678`。**
 
 ## 导入方法
 
-1. 下载上面的 ZIP 并解压，或在下表只下载你想读的书包。
-2. 打开剧本单词，进入「阅读 → 导入本地书」，选择 `.txtpack` 文件。
-3. 输入 `12345678`，导入完成后在本地书架打开。书包解密可以离线使用，导入功能受 App 内权益设置控制。
-
-## 分包目录
-
-| 书包 | 收录书目 |
-| --- | --- |
-| [下载 Scripty-Classics-01.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-01.txtpack) | 《啊，拓荒者！》、《海狼》、《我的安东妮亚》 |
-| [下载 Scripty-Classics-02.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-02.txtpack) | 《伊坦·弗洛美》、《马丁·伊登》、《纯真年代》、《爱丽丝漫游奇境》、《野性的呼唤》、《化身博士》 |
-| [下载 Scripty-Classics-03.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-03.txtpack) | 《德伯家的苔丝》、《绿山墙的安妮》、《圣诞颂歌》、《道林·格雷的画像》 |
-| [下载 Scripty-Classics-04.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-04.txtpack) | 《大卫·科波菲尔》、《弗兰肯斯坦》 |
-| [下载 Scripty-Classics-05.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-05.txtpack) | 《爱玛》、《远大前程》、《了不起的盖茨比》、《黑暗的心》 |
-| [下载 Scripty-Classics-06.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-06.txtpack) | 《简·爱》、《小妇人》 |
-| [下载 Scripty-Classics-07.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-07.txtpack) | 《傲慢与偏见》、《时间机器》、《绿野仙踪》 |
-| [下载 Scripty-Classics-08.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-08.txtpack) | 《汤姆·索亚历险记》 |
-| [下载 Scripty-Classics-09.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-09.txtpack) | 《秘密花园》、《金银岛》 |
-| [下载 Scripty-Classics-10.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-10.txtpack) | 《福尔摩斯探案集》、《双城记》 |
-| [下载 Scripty-Classics-11.txtpack](https://github.com/LuckyLunars/scripty-books/raw/refs/heads/main/Scripty-Classics-11.txtpack) | 《呼啸山庄》 |
+1. 下载 `Scripty-Classics.txtpack`。
+2. 打开剧本单词，在「阅读 → 导入本地书」选择书包并输入密码。
+3. 新版 App 遇到重复书籍时会询问「覆盖」或「跳过」。想更新已有书目时选「覆盖」，只想补齐新书时选「跳过」。导入完成后在本地书架阅读。导入功能受 App 内权益设置控制。
 
 [文件校验值（SHA-256）](SHA256SUMS.txt)
 
-## 原文参考
+## 更新书包
+
+将全部要发布的 TXT 原稿重新打包为 `Scripty-Classics.txtpack`，维持公开密码和已有书目的 `id`。在 [books 发布页](https://github.com/LuckyLunars/scripty-books/releases/tag/books)替换同名附件，然后更新校验值和书目。读者一直使用上面的下载地址。
+
+## 收录书目与原文参考
 
 书包收录经典英文原作正文和项目整理的中文对照文本，以下列出参考版本。
-
 - [啊，拓荒者！](https://www.gutenberg.org/ebooks/24)
 - [海狼](https://www.gutenberg.org/ebooks/1074)
 - [我的安东妮亚](https://www.gutenberg.org/ebooks/242)
